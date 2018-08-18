@@ -1,0 +1,10 @@
+{
+  "name": "Alcobot42",
+  "version": "0.0.1",
+  "description": "A Alcofandom42 group temegram bot.",
+  "main": "index.js",
+  "repository": "https://github.com/alcofandom42/Alcobot42",
+  "author": "Alcofandom42",
+  "license": "GPL-3.0",
+  "private": true
+}
